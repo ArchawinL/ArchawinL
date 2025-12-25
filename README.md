@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋🐘, I'm Archie!
 
+I'm a passionate problem solver working on software engineering and machine learning problems.
 <!--
 **ArchawinL/ArchawinL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
